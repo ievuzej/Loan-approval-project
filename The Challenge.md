@@ -1,6 +1,6 @@
 # Loan-approval-project
 
-The problem:
+Background to the challenge:
 _Zappy Financial Services is a local company that provides small business loans. Last year, loan
 applications increased by over 200%, largely as a result of a concerted online push to establish a
 strong digital presence. Almost all loan applications and business leads are generated from search
